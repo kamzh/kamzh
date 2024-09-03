@@ -1,14 +1,12 @@
-## 👋 Hi there, I am Kamilya!
+## Hi there, I am Kamilya! 👀
 ![Untitled (1500 x 250 px)](https://github.com/user-attachments/assets/92d139af-6aaa-41a5-ac38-ad5783b31ac4)
 
-I'm a front-end developer who loves turning caffeine into code and bringing designs to life on the web. 
-![1](https://github.com/user-attachments/assets/62aac9f1-9667-4a2e-a396-34d694056dde)
+## I'm a front-end developer ⌨️
+who loves turning caffeine into code and bringing designs to life on the web. ![1](https://github.com/user-attachments/assets/62aac9f1-9667-4a2e-a396-34d694056dde)  
 
 I'm passionate about crafting user experiences that are both beautiful and functional. 
 
-When I'm not coding, you can find me exploring new coffee shops ![2](https://github.com/user-attachments/assets/350a669c-fa0f-41e6-8449-4e70035c8e63) or getting lost in a good book. ![Untitled (40 x 40 px)](https://github.com/user-attachments/assets/952ba731-972d-4875-a00d-ecc21ea574ea)
-
-
+When I'm not coding, you can find me exploring new coffee shops or getting lost in a good book. 
 ## 🛠 Tools & Technologies
 
 ### Programming Languages
